@@ -1,2 +1,2 @@
 # FSD-java
-java dynamic web projects
+Simple java projects
